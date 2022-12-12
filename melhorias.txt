@@ -1,0 +1,8 @@
+1. no Swing pode se unir os botões "existem filmes da categoria" e "conta filmes da categoria" , para um botão só onde podemos ver se existe filmes
+e no mesma tela ver quantos são e quais suas propriedades.
+
+2. em alguns metodos é interessante implementar um Log, principalmente na classe de  recuperação e gravação de dados, para debug de algum bug futuro.
+
+3. melhorar a baixa cobertura de testes de unidade, deixando o projeto aberto para possiveis bugs.
+
+4. é possivel ver varias duplicações em algumas classes principalmente no SistemaFilmeGUI podemos ver como codesmels que precisam ser reparados
