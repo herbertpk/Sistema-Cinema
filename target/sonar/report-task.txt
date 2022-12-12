@@ -1,0 +1,6 @@
+projectKey=groupId:Ex8
+serverUrl=http://192.168.0.114:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://192.168.0.114:9000/dashboard?id=groupId%3AEx8
+ceTaskId=AYUA0mKTovoBkdIGafz9
+ceTaskUrl=http://192.168.0.114:9000/api/ce/task?id=AYUA0mKTovoBkdIGafz9
